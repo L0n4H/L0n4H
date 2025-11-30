@@ -1,26 +1,8 @@
 # 💫 About Me:
 
-🇫🇷 Version française :<br><br>
-💻 Développeur passionné • 🧠 Curieux de tout<br>
-🎮 Objectifs créatifs :<br>
- • Créer mon propre jeu avec Godot<br>
- • Explorer la data science pour le fun 🚀<br>
-🧰 Objectifs de langages / frameworks :<br>
- • C# pour le développement de jeux vidéos 🎮<br>
- • Framework Python pour la data science 📊<br>
- • Django et JavaScript pour le développement web 🌐<br>
-🛡️ Intéressé par la cybersécurité (et un peu de Root Me 👀)<br><br>
-
-🇬🇧 English version :<br><br>
-💻 Passionate developer • 🧠 Always curious<br>
-🎮 Creative goals:<br>
- • Build my own game with Godot<br>
- • Explore data science just for fun 🚀<br>
-🧰 Language / framework goals:<br>
- • C# for game development 🎮<br>
- • Python framework for data science 📊<br>
- • Django and JavaScript for web development 🌐<br>
-🛡️ Interested in cybersecurity (and doing some Root Me 👀)
+💻 Étudiant en informatique | Computer Science Student
+🛡️ Root Me • TryHackMe
+🎮 Godot (GDScript)
 
 
 
