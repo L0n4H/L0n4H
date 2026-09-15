@@ -40,7 +40,4 @@
 - 🔗 **LinkedIn:** [Nolhan Dolou](https://www.linkedin.com/in/nolhan-dolou-674348356)
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=minimal" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=minimal" alt="Top Languages" height="150"/>
-</p>
+
