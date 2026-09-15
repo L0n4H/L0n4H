@@ -6,11 +6,7 @@
 
 ---
 
-### 🛠️ Skills & Technologies### 📫 Connect with me
-
-- 🔗 **LinkedIn:** [Nolhan Dolou](https://www.linkedin.com/in/nolhan-dolou-674348356)
-
-
+### 🛠️ Skills & Technologies
 #### 🖥️ Software Development
 `Java` • `JavaFX` • `Python` • `JDBC`
 
